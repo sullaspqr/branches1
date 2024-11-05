@@ -11,6 +11,11 @@ A .md fájl kiterjesztés a Markdown jelölőnyelvet használó fájlokat jelöl
 # Nagy cím (H1)
 ## Kisebb cím (H2)
 ### Alcím (H3) stb.
+```Markdown
+# Nagy cím (H1)
+## Kisebb cím (H2)
+### Alcím (H3) stb.
+```
 A címek # jelekkel kezdődnek, és minél több # jel, annál kisebb a cím szintje.
 
 # Felsorolások
