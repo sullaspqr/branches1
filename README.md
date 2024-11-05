@@ -35,13 +35,13 @@ Félkövér és dőlt: ***félkövér és dőlt szöveg***
 console.log("Hello, world!");
 ```
 ## Linkek beszúrása:
-[Link szövege](https://pelda.hu)
+[Link szövege](https://sulla.hu)
 ## Képek hozzáadása
-![Kép leírása](https://pelda.hu/kep.png)
+![Kép leírása](https://sulla.hu/Polgar.jpg)
 # Táblázatok
 | Fejléc 1 | Fejléc 2 |
 | -------- | -------- |
 | Tartalom | Tartalom |
 # Hivatkozások jegyzéke
 Forrásokat is beszúrhatnak, például [1] jelölésekkel és a dokumentum végén definiálhatják őket
-[1]: https://pelda.hu
+[1]: https://sulla.hu
