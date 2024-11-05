@@ -35,9 +35,9 @@ Félkövér és dőlt: ***félkövér és dőlt szöveg***
 console.log("Hello, world!");
 ```
 ## Linkek beszúrása:
-[Link szövege](https://sulla.hu)
+[1][Link szövege](https://sulla.hu)
 ## Képek hozzáadása
-![Kép leírása](https://sulla.hu/Polgar.jpg)
+[2]![Kép leírása](https://sulla.hu/Polgar.jpg)
 # Táblázatok
 | Fejléc 1 | Fejléc 2 |
 | -------- | -------- |
