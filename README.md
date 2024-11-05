@@ -35,15 +35,15 @@ Félkövér és dőlt: ***félkövér és dőlt szöveg***
 console.log("Hello, world!");
 ```
 ## Linkek beszúrása:
-[1][Link szövege](https://sulla.hu)
+[Link szövege](https://sulla.hu)
 ## Képek hozzáadása
-[2]![Kép leírása](https://sulla.hu/Polgar.jpg)
+![Kép leírása](https://sulla.hu/Polgar.jpg)
 # Táblázatok
 | Fejléc 1 | Fejléc 2 |
 | -------- | -------- |
 | Tartalom | Tartalom |
 # Hivatkozások jegyzéke
-Forrásokat is beszúrhatnak, például [1] jelölésekkel és a dokumentum végén definiálhatják őket:
+Forrásokat is beszúrhatnak, például [1] és [2] jelölésekkel és a dokumentum végén definiálhatják őket
 
 [1]: https://sulla.hu
 [2]: https://www.kkszki.hu
