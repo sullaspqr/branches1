@@ -23,32 +23,70 @@ A címek # jelekkel kezdődnek, és minél több # jel, annál kisebb a cím szi
 ## Számozott lista:
 1. Első pont
 2. Második pont
+```Markdown
+1. Első pont
+2. Második pont
+```
 ## Pontozott lista:
 - Első elem
 - Második elem
+```Markdown
+- Első elem
+- Második elem
+```
 # Kiemelések
 
 Dőlt: *dőlt szöveg* vagy _dőlt szöveg_
 Félkövér: **félkövér szöveg** vagy __félkövér szöveg__
 Félkövér és dőlt: ***félkövér és dőlt szöveg***
+```Markdown
+Dőlt: *dőlt szöveg* vagy _dőlt szöveg_
+Félkövér: **félkövér szöveg** vagy __félkövér szöveg__
+Félkövér és dőlt: ***félkövér és dőlt szöveg***
+```
 # Kódrészletek
 
 ## Egysoros kód:
 `kódrészlet`
+```Markdown
+`kódrészlet`
+```
 ## Többsoros kódblokk:
 ```javascript
 console.log("Hello, world!");
 ```
+```Markdown
+altgr+7 * 3 javascript
+console.log("Hello, world!");
+altgr+7 * 3
+```
 ## Linkek beszúrása:
 [Link szövege](https://sulla.hu)
+```Markdown
+[Link szövege](https://sulla.hu)
+```
 ## Képek hozzáadása
 ![Kép leírása](https://sulla.hu/Polgar.jpg)
+```Markdown
+![Kép leírása](https://sulla.hu/Polgar.jpg)
+```
 # Táblázatok
 | Fejléc 1 | Fejléc 2 |
 | -------- | -------- |
 | Tartalom | Tartalom |
+```Markdown
+| Fejléc 1 | Fejléc 2 |
+| -------- | -------- |
+| Tartalom | Tartalom |
+```
 # Hivatkozások jegyzéke
 Forrásokat is beszúrhatnak, például [1] és [2] jelölésekkel és a dokumentum végén definiálhatják őket
 
 [1]: https://sulla.hu
 [2]: https://www.kkszki.hu
+```Markdown
+Forrásokat is beszúrhatnak, például [1] és [2] jelölésekkel és a dokumentum végén definiálhatják őket
+
+[1]: https://sulla.hu
+[2]: https://www.kkszki.hu
+```
