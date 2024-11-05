@@ -43,5 +43,7 @@ console.log("Hello, world!");
 | -------- | -------- |
 | Tartalom | Tartalom |
 # Hivatkozások jegyzéke
-Forrásokat is beszúrhatnak, például [1] jelölésekkel és a dokumentum végén definiálhatják őket
+Forrásokat is beszúrhatnak, például [1] jelölésekkel és a dokumentum végén definiálhatják őket:
+
 [1]: https://sulla.hu
+[2]: https://www.kkszki.hu
